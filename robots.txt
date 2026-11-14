@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://skings-portfolio.netlify.app/sitemap.xml
